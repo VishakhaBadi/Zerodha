@@ -1,0 +1,7 @@
+.header{
+    display: flex;
+    justify-content: center;
+}
+#btn{
+    background-color: aliceblue;
+}
